@@ -1,0 +1,318 @@
+Room E144
+@elaine_marino
+#growdevelopers
+
+
+
+I wish I had like background music... so quiet!
+
+It's time.
+
+Thakns for coming. My name is elaine marino. You can find me on twitter,
+#growdevelopers. Happy to talk before/during/after, I just appreciate you
+bring here.
+
+
+GOals
+    bring a new perspecitve to diversity dlimema
+    provide solutions for software/tech
+
+
+Where I come from:
+    I worked in Advertising in NYC in 2010. Not much has changed in 50 years.
+    There is a big difference between ad/tech, the percentage of women is
+    about 56%, tech is about 26%. Ad is trending, but only 3% of women make it
+    ot exec level
+
+
+    How'd I get from there to tech? I have another talk later this week. I
+    left for a numberf of reasons, but I left for BOulder to do startup
+    marketing. As I was doing it, it became clear I didn't understand the tech
+    or what I was marketing. I was nervous I wasn't going to ge ta seat at the
+    table. Then I read this quote:
+        "one reason there is so few women in 
+            Kate Auletta, July
+
+    Took an 11 week intensive course, a 6 month internship, and Joined every
+    netowrking group and converence. Then I put my own converence, lady coders
+    boulder, then into a biz called lady coder productions with my parnter
+    goulding.
+
+    That is the gist of how I got here. THis is my perspective as both insider
+    and outsider. This is abou tmy journey as a rails dev, and what I've
+    leanred about coming into this industry. In many instances, I'll make
+    assumptions based on my story.
+
+
+    Current potrait of tech:
+
+    Every month, we add about 9600 jobs per month. Ave salary of 78K.
+    Women make up 22 of tech, but 53 overall
+
+    latino and AA workers make up less than 5%.
+
+    22 includes Q/A, and analysts too.
+
+Who cares what the number is, it's about balance. Something is out of balance.
+It' snot just a moral problem, with moral implications. it is an economic,
+productivity, business problem.
+
+Quick detour.
+
+    easier to talk about sex life than gender
+    Gender/race/class/relgion are difficult to discuss. We have to give
+    ourselves a break, and be ready to talk about this stuff
+    we're taught from birth what it means to be a man/woman, and anything
+    challenging binary roles is uncomfortable. If you don't know someones
+    gender when you talk to them, you are looking for cues constantly. Even
+    though we want to believe we don't hav ebias, it's there. Same for
+    race/class.
+
+    Our biases exist.
+
+
+What does diversity mean?
+    Gender
+    Race
+    age (kind of fuzzier)
+    class
+    religion
+    disabled
+
+    lots of diff attributes.
+
+Why important?
+    There are real biz implications.
+    HBR did a survey of top 24 CEO's with diversity agendas. They blieved it
+    was part of stay8ng competitive, not just moral.
+
+    Credit suisse interviewed over 2000 global companies in 2011, and how they
+    performed after financial crisis. The companies with at least one female
+    director outperformed all others for last six years.
+
+I'm going to talk about starbucks. At the time I gave this talk the first
+time, Howard Shultz was not well known. He grew up poor in the projects of
+brooklyn, got a sports scholarship, and was first in his family to go to
+college. He was determined to offer health insurance b/c of what he saw
+growing up. 
+
+The qutesion here, what if he didn't grow up poor? What if he didn't
+experience classism? Starbucks would not be the company that it is today. It
+wouldn't be such a great place to work, or as profitable. he's had to fight
+with shareholdrs the whole time for healthcare and equity options fo
+remployees.
+
+
+There were some women who were at the conference, who were over 40, and that a
+shift happens when you reach a certain age. You are sitting on th4e sidelines,
+not able to fit into the new culture. if someone is 55, SSI doesn't kick in
+until 66. That is 11 good years, and tey have lots of experience built on
+failure/frustration, and can help train the next gen. They'll be loyal, and
+not care what beer you have in the fridge.
+
+Merisant CEO paul block. "Diversity creates dissent. Without it, you don't get
+deep inquiry or breakthroughs."
+
+It solves problems, and it is overall better for economy.
+
+Big MEssage:
+    Calvary is not coming. There is not a flock of devs that is going to
+    influx and grow the economy. Unless immigration changes, calvary is not
+    coming. Universities need to produce 1M more STEM grads than the previous
+    decade, to maintain the lead globally.
+
+Top-Down
+    If you ar ea a senior dev, company owner, this is how you affect change in
+    industry. In my research i've been fascinated by leadership who set up
+    metrics and take action. i've met these people at diff companies. I've met
+    the VP of engineering, and he made it his personal mission to get more
+    women and diversity on his team. in 1 year, he hired 5 new women, and it
+    grew exponentionally.
+
+    inclusivity must be a personal mission.
+
+Quotas are controversial, but it makes a lot of sense. going from 0 to 5% is
+almost impossible. This is where software development is. I implore leaders to
+think about how to enforce diversity within your company.
+
+"I am a mother of two. I don't care about your beer or pingpong." Female SR SE
+
+What is important to this woman? Healthcare, travel, sicktime for her kids.
+Beer is not going to be wha tyou lure her with.
+
+It is about mutual respect. Software development needs to overcome some
+serious issues of respect. I was never challenged in my marketing career, I
+was always expected that I could do my job. If you are in tech, think about
+mutual respect. I would sit in on code reviews. "why would you put taht there,
+you idiot! Why would you use that gem douchebag!" People challenge code all
+the time, but no one challenges the ignorance. When you're on twitter, it is
+time to speak up and challenge ignorance.
+
+
+Top-Down Recap
+    Consider quotes to get from 1-5%
+    looking at company culture
+    approach as a personal mission
+    mutual respect
+    Leadership: SpeakUP!
+
+Middle
+    There were 60 women, 3 men. People say to me all the time "where are all
+    the women?" Some had 25 years experience, some were fresh out of CU. Many
+    come from these new codeschools. Women come at it often laterally, usually
+    after being unemployed. Many women got CS degreees in the 80's, and are
+    now back after raising their kids.
+
+    They are educated, diligent, and hungry for work, but don't look like the
+    average dev, and are denied access.
+
+    Partly the "plug and play" mentality. They want talent to come in, and
+    make it happen. They want the talent to be plugged in, and not do anything
+    else. They just keep poaching one-another over time.
+
+    The nubmer of plug-and-play hackers, they are finite. Everyone else is
+    coming from scodeschool, or univserity, and you are not seeing them.
+    Poeple that are comign from those places, have a huge gap in knowledge.
+    The women that comes back into the workforce, she knows programs that are
+    "old." 
+
+    There is a catch 22. #1 reason for not filling position, lack of
+    experience. You can't get hired without experience, you can get experience
+    without being hired.
+
+
+What is in that gap?
+    We don't totally know, coming from this side.
+    I had 4 hours of JS training. I dind't know how to do front-end
+    validations, and I dind't know that companies needed me to konw that. I
+    don't know what I don't know. There needs to be industry standards, or
+    "you need thse 5 things" before you walk in the door.
+
+    Imposter Syndrome
+        I have a deep seeded fear, that I don't belong here.
+    Stereotype Threat
+        Anxiety/concern that a person will confirm a negative stereotype.
+        "women are beginners and don't know what they are doing"
+    Classism
+        Enormous problem with learning to code. Unemployed, scrimping by, and
+        just trying to figure out how to make the leap to the other side. I
+        had heard devs on the company say "How can you not afford $30K ed to
+        get the $70K job right after." I know women who are racking up debt
+        and depending on others to learn the things they need to do, and
+        meanwhile, they don't know what htey need to learn.
+
+        I would like to ask companies to meet halfway. You have people who are
+        willing to start at the bottom. It isn't just about settin ego aside.
+        There is a gap in knowledge, but a lot of comapneies say traiing is
+        expensive.
+
+        We are dedicated to learning, and you give a kick-in-the-pants.
+
+    My Recommendation
+        two mentors, male/female
+        assigned bugs/projects/realwork
+        review assignemnts for 10 minutes at beginning of each day
+        get 15 mins in the middle of day to ask questions
+        15 minutes end of day to ask questions end of day
+        required learning outside of office
+            list of learning and timeline set up by mentors
+            must work on open source
+        have progress check-ins every two weeks (agile!)
+
+    If companies did this, we'd grow exponentially.
+
+Vague/confusing job reqs
+    Standards for job descirptions need help
+    Senior description sounds more junior, junior sounds more senior, both are
+    vague
+
+    HR is writing job descriptions, not engineers.
+
+    Impostor syndrome will cause them to specifically know the particular
+    things if you clearly define what you are lookign for (i.e. specific API's
+    libraries)
+
+I want to hire you
+    versus
+I need to find out if you're good enough
+
+Try to include a woman in your interviews, and your evaluations. It is
+difficult to sit and be interrogated by 6 male engineers. Looking for waht is
+wrong with my code, rather than wha tis right.
+
+middel recap
+
+Bottom-up
+    We have enormous drop-off in STEM after Puberty. Prior they are just as
+    interested. If we want more devs, we gotta get to them when they're young
+
+    Inspire youth!
+    Get on the board of orgs like girls who code, code.org, blackgirlscode,
+    codenow, etc...
+
+    Help the poorest performing schools in your area
+
+    What I know for sure:
+        She (Oprah) is a billionaire
+        We gotta stop poaching, stop looking for same critera, talented peopel
+        are sitting ont he sidelines. Mothers, men over 50, autistic,
+        unemployed, all hungry, diligent, smart. They may be scared cause they
+        only know cobol.
+
+Guiliani
+    90-99
+    homicide dropped 73
+    burlglary 66
+    aassut 40
+    robbery 67
+    autotheft 73
+
+    Did it incrementally
+        more garbage pickup
+        higher petty crime penalties
+
+
+There is no silver bullet for diversity problem, it will be many small
+changes, from top/middle/bottom, and will require changes on everyon'e part.
+
+Diversity is important and profitable.
+Ther eis a major lack in SD
+there is a need for talent.
+The calvary is not coming unless imimgration laws change. 
+peple of all classes/races/genders/ are hungry
+
+
+
+Q: Specifically, within FOSS community, our problem is actually more
+pernicious. Though you see sexism, it isn't as overt. With the exception of
+some communities like the one at RIT, you can't go and learn about FOSS.
+
+A: It has to come from senior leadership. The leaders at the highest levels
+need to get in there and say cut it out. Make it a policy. and as far as Open
+Source, women need to get better, and keep doing what they are doing. An
+increase in women using it, and leadership saying somehting about it, will
+help it dissipate.
+
+
+Q: I've seen this plug-and-play mentality, and where I work there is a huge
+contractor to full-time ratio. If you don't, if you are not one of those
+plugandplay people, they'll just outsource you.
+
+A: Start small. 2 interns! DOn't be afraid to try. There is an enormous
+problem getting trained.
+
+Q: We've had success hiring interns, and we'd like to move forward with a
+mentor relationships.
+
+A: Women don't, in general, aren't spending nights/weekends coding as much. I
+don't think that it isn't about not showing diligence by not coding all
+weekend long. I would say, in looking for good mentors, peopel who like
+teaching, and talking about how they solved their problems, those are the
+peple you want. You want to find mentors with time also, and giv ethem
+time/space in order to teach, not just deal with clients. As far as good
+students, anyone that is a go-getter, shows up on time, willing ot put in the
+extra work, and really try, as opposed to "just winging it."
+
+Q: We've found that having a diversity mandate is different han being
+successful at finding candidates.
+A: Be persistant. Sponsor women's orgs' meetups.
